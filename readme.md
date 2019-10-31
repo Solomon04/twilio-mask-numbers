@@ -15,8 +15,8 @@ This boilerplate demonstrates in the most basic way how you can mask phone numbe
 #### Flow of a Masked Phone Call:
 ![demo](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/proxy_overview_graphic.width-800.png)
 
-#### Watch Tutorial: 
-
+#### Click To Watch Tutorial: 
+<a href=''>![tutorial](https://img.youtube.com/vi/h7zyPTNC2bk/0.jpg)</a>
 
 ## Getting Started
 #### Environment: 
